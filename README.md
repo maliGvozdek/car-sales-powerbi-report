@@ -3,7 +3,7 @@
 Interactive Power BI report analysing 23,906 car sales: sales trends over time,
 regional differences, customer habits and dealer performance.
 
-![Report overview](report/screenshots/overview.png)
+![Report overview](report/screenshots/home_page.JPG)
 
 ## Overview
 
@@ -50,37 +50,37 @@ After importing the tables into Power BI, the last step was building the reports
 
 ### Home page
 
-<!-- photo -->
+![Home page](report/screenshots/home_page.JPG)
 
 The main purpose of this page is easy navigation. It has five buttons, each leading to one report, and a couple of charts.
 
 ### Sales by brand
 
-<!-- photo -->
+![Home page](report/screenshots/sales_by_brand.JPG)
 
 Compares sales across car brands. A bar chart shows the number of cars sold per brand, and pie charts show sales by body style and by colour. Cards show the average price, most popular model and brand, and the preferred engine and transmission. This helps a dealer see which brands and car features are most in demand.
 
 ### Sales trend over time
 
-<!-- photo -->
+![Home page](report/screenshots/home_page.JPG)
 
 Shows the number of cars sold over time, with a forecast of future sales based on past data. It also includes a KPI for the total sales goal, sales by dealer, and cards for the top model, brand and dealer. It reveals seasonal demand: for example, sales are high in September.
 
 ### Geographical analysis
 
-<!-- photo -->
+![Home page](report/screenshots/home_page.JPG)
 
 A map shows where dealers are located by region, and a bar chart compares sales per dealer. Cards show the top dealer, total sales value, average price and number of sales. A chart compares the number of sales with the average price by month. Useful for tracking dealer performance and setting sales goals.
 
 ### Customer analysis
 
-<!-- photo -->
+![Home page](report/screenshots/home_page.JPG)
 
 Looks at who buys cars: the split by gender, average price, and average and median customer income. A combined chart shows which income groups buy the most expensive cars, and a scatter plot compares car price with annual income.
 
 ### Price analysis
 
-<!-- photo -->
+![Home page](report/screenshots/home_page.JPG)
 
 Shows the average price per brand (with a region filter), the relationship between price and income, the top 5 best-selling models, and sales by body style.
 
