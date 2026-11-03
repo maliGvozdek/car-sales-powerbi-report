@@ -1,0 +1,197 @@
+dealer_id,Dealer_Name,Dealer_Region
+1,Buddy Storbeck's Diesel Service Inc,Middletown
+2,C & M Motors Inc,Aurora
+3,Capitol KIA,Greenville
+4,Chrysler of Tri-Cities,Pasco
+5,Chrysler Plymouth,Janesville
+6,Classic Chevy,Scottsdale
+7,Clay Johnson Auto Sales,Austin
+8,U-Haul CO,Austin
+9,Rabun Used Car Sales,Pasco
+10,Rabun Used Car Sales,Scottsdale
+11,Race Car Help,Austin
+12,Race Car Help,Pasco
+13,Saab-Belle Dodge,Aurora
+14,Scrivener Performance Engineering,Greenville
+15,Classic Chevy,Austin
+16,Diehl Motor CO Inc,Middletown
+17,Star Enterprises Inc,Pasco
+18,Suburban Ford,Janesville
+19,Tri-State Mack Inc,Scottsdale
+20,Progressive Shippers Cooperative Association No,Janesville
+21,Race Car Help,Janesville
+22,Ryder Truck Rental and Leasing,Scottsdale
+23,Saab-Belle Dodge,Austin
+24,Scrivener Performance Engineering,Middletown
+25,Star Enterprises Inc,Aurora
+26,Tri-State Mack Inc,Greenville
+27,U-Haul CO,Pasco
+28,Enterprise Rent A Car,Aurora
+29,Gartner Buick Hyundai Saab,Greenville
+30,Hatfield Volkswagen,Pasco
+31,Ryder Truck Rental and Leasing,Middletown
+32,Progressive Shippers Cooperative Association No,Austin
+33,C & M Motors Inc,Scottsdale
+34,Chrysler of Tri-Cities,Middletown
+35,Iceberg Rentals,Janesville
+36,McKinney Dodge Chrysler Jeep,Scottsdale
+37,Motor Vehicle Branch Office,Austin
+38,Ryder Truck Rental and Leasing,Janesville
+39,McKinney Dodge Chrysler Jeep,Austin
+40,Nebo Chevrolet,Middletown
+41,Chrysler Plymouth,Aurora
+42,Classic Chevy,Greenville
+43,Clay Johnson Auto Sales,Pasco
+44,New Castle Ford Lincoln Mercury,Aurora
+45,Pars Auto Sales,Greenville
+46,Pitre Buick-Pontiac-Gmc of Scottsdale,Pasco
+47,Diehl Motor CO Inc,Janesville
+48,Enterprise Rent A Car,Scottsdale
+49,Gartner Buick Hyundai Saab,Austin
+50,Hatfield Volkswagen,Janesville
+51,Iceberg Rentals,Scottsdale
+52,Buddy Storbeck's Diesel Service Inc,Janesville
+53,Motor Vehicle Branch Office,Middletown
+54,Nebo Chevrolet,Aurora
+55,U-Haul CO,Janesville
+56,Suburban Ford,Greenville
+57,Pars Auto Sales,Pasco
+58,Pitre Buick-Pontiac-Gmc of Scottsdale,Janesville
+59,Progressive Shippers Cooperative Association No,Scottsdale
+60,Rabun Used Car Sales,Austin
+61,Race Car Help,Middletown
+62,Scrivener Performance Engineering,Pasco
+63,Star Enterprises Inc,Janesville
+64,Nebo Chevrolet,Austin
+65,U-Haul CO,Middletown
+66,Progressive Shippers Cooperative Association No,Aurora
+67,Rabun Used Car Sales,Greenville
+68,Saab-Belle Dodge,Scottsdale
+69,Star Enterprises Inc,Middletown
+70,Suburban Ford,Aurora
+71,New Castle Ford Lincoln Mercury,Greenville
+72,Rabun Used Car Sales,Aurora
+73,Saab-Belle Dodge,Janesville
+74,Ryder Truck Rental and Leasing,Aurora
+75,Saab-Belle Dodge,Greenville
+76,Tri-State Mack Inc,Austin
+77,Scrivener Performance Engineering,Scottsdale
+78,Tri-State Mack Inc,Aurora
+79,Scrivener Performance Engineering,Austin
+80,Capitol KIA,Austin
+81,Buddy Storbeck's Diesel Service Inc,Pasco
+82,Chrysler of Tri-Cities,Greenville
+83,Diehl Motor CO Inc,Austin
+84,Chrysler of Tri-Cities,Austin
+85,Suburban Ford,Scottsdale
+86,McKinney Dodge Chrysler Jeep,Janesville
+87,New Castle Ford Lincoln Mercury,Middletown
+88,Pars Auto Sales,Aurora
+89,Pitre Buick-Pontiac-Gmc of Scottsdale,Greenville
+90,Progressive Shippers Cooperative Association No,Pasco
+91,Rabun Used Car Sales,Janesville
+92,Race Car Help,Scottsdale
+93,Ryder Truck Rental and Leasing,Austin
+94,Saab-Belle Dodge,Middletown
+95,Scrivener Performance Engineering,Aurora
+96,Star Enterprises Inc,Greenville
+97,Suburban Ford,Pasco
+98,Tri-State Mack Inc,Janesville
+99,U-Haul CO,Scottsdale
+100,Rabun Used Car Sales,Middletown
+101,Race Car Help,Aurora
+102,Ryder Truck Rental and Leasing,Greenville
+103,Saab-Belle Dodge,Pasco
+104,Scrivener Performance Engineering,Janesville
+105,Star Enterprises Inc,Scottsdale
+106,Suburban Ford,Austin
+107,Tri-State Mack Inc,Middletown
+108,U-Haul CO,Aurora
+109,Buddy Storbeck's Diesel Service Inc,Greenville
+110,C & M Motors Inc,Pasco
+111,Capitol KIA,Janesville
+112,Chrysler Plymouth,Austin
+113,Classic Chevy,Middletown
+114,Clay Johnson Auto Sales,Aurora
+115,Diehl Motor CO Inc,Greenville
+116,Enterprise Rent A Car,Pasco
+117,Gartner Buick Hyundai Saab,Janesville
+118,Hatfield Volkswagen,Scottsdale
+119,Motor Vehicle Branch Office,Janesville
+120,New Castle Ford Lincoln Mercury,Austin
+121,Pars Auto Sales,Middletown
+122,Pitre Buick-Pontiac-Gmc of Scottsdale,Aurora
+123,Progressive Shippers Cooperative Association No,Greenville
+124,Tri-State Mack Inc,Pasco
+125,Buddy Storbeck's Diesel Service Inc,Aurora
+126,C & M Motors Inc,Greenville
+127,Capitol KIA,Pasco
+128,Chrysler of Tri-Cities,Janesville
+129,Chrysler Plymouth,Scottsdale
+130,Clay Johnson Auto Sales,Middletown
+131,Diehl Motor CO Inc,Aurora
+132,Enterprise Rent A Car,Greenville
+133,Gartner Buick Hyundai Saab,Pasco
+134,Nebo Chevrolet,Scottsdale
+135,Iceberg Rentals,Austin
+136,Motor Vehicle Branch Office,Scottsdale
+137,Chrysler of Tri-Cities,Scottsdale
+138,Hatfield Volkswagen,Austin
+139,C & M Motors Inc,Austin
+140,Enterprise Rent A Car,Austin
+141,U-Haul CO,Greenville
+142,C & M Motors Inc,Janesville
+143,Capitol KIA,Scottsdale
+144,Chrysler Plymouth,Middletown
+145,Classic Chevy,Aurora
+146,Clay Johnson Auto Sales,Greenville
+147,Diehl Motor CO Inc,Pasco
+148,Enterprise Rent A Car,Janesville
+149,Gartner Buick Hyundai Saab,Scottsdale
+150,Nebo Chevrolet,Janesville
+151,New Castle Ford Lincoln Mercury,Scottsdale
+152,Pars Auto Sales,Austin
+153,Pitre Buick-Pontiac-Gmc of Scottsdale,Middletown
+154,Clay Johnson Auto Sales,Scottsdale
+155,Buddy Storbeck's Diesel Service Inc,Austin
+156,C & M Motors Inc,Middletown
+157,Capitol KIA,Aurora
+158,Chrysler Plymouth,Pasco
+159,Classic Chevy,Janesville
+160,Enterprise Rent A Car,Middletown
+161,Gartner Buick Hyundai Saab,Aurora
+162,Hatfield Volkswagen,Greenville
+163,Iceberg Rentals,Pasco
+164,New Castle Ford Lincoln Mercury,Janesville
+165,Pars Auto Sales,Scottsdale
+166,Pitre Buick-Pontiac-Gmc of Scottsdale,Austin
+167,Progressive Shippers Cooperative Association No,Middletown
+168,Race Car Help,Greenville
+169,Ryder Truck Rental and Leasing,Pasco
+170,Star Enterprises Inc,Austin
+171,Suburban Ford,Middletown
+172,Iceberg Rentals,Middletown
+173,McKinney Dodge Chrysler Jeep,Aurora
+174,Motor Vehicle Branch Office,Greenville
+175,Nebo Chevrolet,Pasco
+176,Buddy Storbeck's Diesel Service Inc,Scottsdale
+177,Capitol KIA,Middletown
+178,Chrysler of Tri-Cities,Aurora
+179,Chrysler Plymouth,Greenville
+180,Classic Chevy,Pasco
+181,Clay Johnson Auto Sales,Janesville
+182,Diehl Motor CO Inc,Scottsdale
+183,Gartner Buick Hyundai Saab,Middletown
+184,Hatfield Volkswagen,Aurora
+185,Iceberg Rentals,Greenville
+186,McKinney Dodge Chrysler Jeep,Pasco
+187,McKinney Dodge Chrysler Jeep,Middletown
+188,Pars Auto Sales,Janesville
+189,Nebo Chevrolet,Greenville
+190,New Castle Ford Lincoln Mercury,Pasco
+191,Pitre Buick-Pontiac-Gmc of Scottsdale,Scottsdale
+192,Hatfield Volkswagen,Middletown
+193,Iceberg Rentals,Aurora
+194,McKinney Dodge Chrysler Jeep,Greenville
+195,Motor Vehicle Branch Office,Pasco
+196,Motor Vehicle Branch Office,Aurora
