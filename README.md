@@ -62,25 +62,25 @@ Compares sales across car brands. A bar chart shows the number of cars sold per 
 
 ### Sales trend over time
 
-![Home page](report/screenshots/home_page.JPG)
+![Home page](report/screenshots/sales_trend_over_time.JPG)
 
 Shows the number of cars sold over time, with a forecast of future sales based on past data. It also includes a KPI for the total sales goal, sales by dealer, and cards for the top model, brand and dealer. It reveals seasonal demand: for example, sales are high in September.
 
 ### Geographical analysis
 
-![Home page](report/screenshots/home_page.JPG)
+![Home page](report/screenshots/geographical_analysis.JPG)
 
 A map shows where dealers are located by region, and a bar chart compares sales per dealer. Cards show the top dealer, total sales value, average price and number of sales. A chart compares the number of sales with the average price by month. Useful for tracking dealer performance and setting sales goals.
 
 ### Customer analysis
 
-![Home page](report/screenshots/home_page.JPG)
+![Home page](report/screenshots/customer_analysis.JPG)
 
 Looks at who buys cars: the split by gender, average price, and average and median customer income. A combined chart shows which income groups buy the most expensive cars, and a scatter plot compares car price with annual income.
 
 ### Price analysis
 
-![Home page](report/screenshots/home_page.JPG)
+![Home page](report/screenshots/price_analysis.JPG)
 
 Shows the average price per brand (with a region filter), the relationship between price and income, the top 5 best-selling models, and sales by body style.
 
